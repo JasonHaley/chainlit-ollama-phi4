@@ -115,3 +115,7 @@ Next let's run it!
 ```
 chainlit run rag.py
 ```
+
+Now you can play with it. There is a pdf in the root of this repo (**phi4-technical-report.pdf**) you can use if you don't have your own PDF to test with.
+
+After loading the file, try asking it some questions about the contents.

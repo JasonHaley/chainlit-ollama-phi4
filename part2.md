@@ -132,4 +132,6 @@ Next let's run it!
 chainlit run main.py
 ```
 
+Now play with the Chainlit application and ask Phi 4 questions. You may want to start with the starter buttons, but feel free to come up with your own questions.
+
 ## [Next: Create a Chainlit Application to Chat with a PDF File](./part3.md)
