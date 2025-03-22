@@ -39,6 +39,6 @@ The [Phi 4 models](https://azure.microsoft.com/en-us/products/phi/) are a family
 ## Learning Objectives
 1. Install the necessary tools to run AI models locally
 2. Create a web application to interact with a locally running SLM
-3. 
+3. Create a Chainlit application to chat with a PDF document
 
 ## [Next: Setup your local machine](./part1.md)
